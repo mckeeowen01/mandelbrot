@@ -6,3 +6,4 @@
 - CUDA 13 GPU  with > 2.5GB available VRAM
 - Torch, TorchVision for tensor functions
 - ffmpeg or something similar to assemble .mp4 file from .png
+- subprocess with bash as default shell
