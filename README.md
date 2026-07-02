@@ -1,3 +1,5 @@
+Sample videos at www.youtube.com/@owenmckee6939
+
 # Features
 - Functions which render escape time fractals images
 - Functions which allow for animation of escape time fractals
